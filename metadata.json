@@ -1,0 +1,5 @@
+{
+  "name": "AI Resume Tailor",
+  "description": "An intelligent resume builder that tailors your resume to a specific job description using the Gemini API. Simply provide your base resume, the job description, and any key tools or skills, and get a professionally tailored resume ready to download as a PDF.",
+  "requestFramePermissions": []
+}
